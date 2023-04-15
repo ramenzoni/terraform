@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+kube_config.yaml
+terradorm.tfstate
+terradorm.tfstate.backup
